@@ -30,4 +30,4 @@ python -m streamlit run app.py
 Then, open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 # 📄Documentation
-For more detail check out the [documentation]()
+For more detail check out the [documentation](https://drive.google.com/file/d/17gJXUS-u8z8DSzY8X4wtRMTgdXAF55jg/view?usp=sharing)
